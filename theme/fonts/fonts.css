@@ -1,0 +1,23 @@
+/* JetBrains Mono is licensed under the SIL Open Font License 1.1 */
+
+@font-face {
+	font-family: "JetBrains Mono";
+	font-style: normal;
+	font-weight: normal;
+	font-display: swap;
+	src: url("JetBrainsMono-Regular.woff2") format("woff2");
+}
+
+@font-face {
+	font-family: "JetBrains Mono";
+	font-style: italic;
+	font-weight: normal;
+	font-display: swap;
+	src: url("JetBrainsMono-Italic.woff2") format("woff2");
+}
+
+body {
+    font-family: "JetBrains Mono", monospace;
+    font-size: 2.5em;
+    line-height: 120%;
+}

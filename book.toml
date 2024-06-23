@@ -1,0 +1,15 @@
+[book]
+authors = ["b1n <b1n@b1n.io>"]
+language = "en"
+multilingual = false
+src = "src"
+title = "PumpBin Documentation"
+
+[output.html]
+default-theme = "macchiato"
+preferred-dark-theme = "macchiato"
+smart-punctuation = true
+git-repository-url = "https://github.com/pumpbin/book"
+edit-url-template = "https://github.com/pumpbin/book/edit/main/{path}"
+additional-css = ["theme/catppuccin.css"]
+cname = "pumpbin.b1n.io"
