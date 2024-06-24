@@ -1,3 +1,9 @@
+<div class="warning">
+
+[Chinese PumpBin Documentation is here](https://pumpbin.github.io/book-zh/devs/start.html)
+
+</div>
+
 # Quick Start
 
 In this chapter, we will create a `Local` type Plugin and understand how PumpBin works.

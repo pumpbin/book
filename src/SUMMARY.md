@@ -12,3 +12,5 @@
 # User Manual
 
 - [Getting Started](users/start.md)
+
+[Translations](translations.md)
